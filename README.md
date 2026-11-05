@@ -50,6 +50,5 @@ cd coffee-shop
 - Font Awesome ikonkalari
 - Google Fonts (Poppins)
 
-## Muallif
-
-Bean & Brew - 2024
+## Muallifi
+Nomonjonov Muhammad yusuf
